@@ -16,7 +16,7 @@ Currently learning more about Web Development, I am exploring System Design to l
 
 Here are some projects I'm proud of:
 
-1. **[STARS: Stony Brook Assembler and Runtime Simulator](https://github.com/sbustars/STARS):** : Worked alongside Professor McDonnell and Professor Mitra at Stony Brook University to develop STARS, a Python program that parses and emulates MIPS assembly execution.
+1. **[STARS: Stony Brook Assembler and Runtime Simulator](https://github.com/sbustars/STARS):** Worked alongside Professor McDonnell and Professor Mitra at Stony Brook University to develop STARS, a Python program that parses and emulates MIPS assembly execution.
 2. **[Malloc!](https://github.com/lai-kevin/Memory-Allocator):** A x86-64 dynamic memory allocator written in C. Completed as a university project. Utilizes segregated free lists and "quick lists" to improve time complexity. Immediately coalesces large blocks with adjacent free blocks on free, splits without splinters, and omits block footer to improve space efficiency.
 3. **[Stock Dash](https://github.com/lai-kevin/AI_Stock_Dashboard):** Displays stock price data fetched from alphavantage.co API on charts and data tables from Material UI. Utilizes ChatGPT API to generate text summaries of corporations.
 
