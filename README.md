@@ -31,13 +31,13 @@ Feel free to reach out! I'm always open to interesting conversations and collabo
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](GitHub Stats Image URL)
+![GitHub Stats](https://github-stats.com/lai-kevin)
 
 <!-- You can use tools like https://github.com/anuraghazra/github-readme-stats to generate your GitHub Stats Image URL -->
 
 ## 🎉 Fun Facts
 
-- I love [F1 and Sim Racing].
-- My favorite coding snack is [Kimchi].
+- I love F1 and Sim Racing.
+- My favorite coding snack is Kimchi.
 
 Thanks for visiting my GitHub profile! 😊
