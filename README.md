@@ -31,7 +31,7 @@ Feel free to reach out! I'm always open to interesting conversations and collabo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats.com/lai-kevin)
+**[GitHub Stats](https://github-stats.com/lai-kevin)**
 
 <!-- You can use tools like https://github.com/anuraghazra/github-readme-stats to generate your GitHub Stats Image URL -->
 
