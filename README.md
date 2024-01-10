@@ -1,16 +1,23 @@
 # Hello, I'm Kevin Lai! 👋
 
-I'm an undergraduate at Stony Brook University from NYC studying Computer Science. My expertise lies in Full-Stack Web Development.
+I’m a versatile software engineer with internship experience in end-to-end development of full-stack applications and internal software. My
+experience spans both startup and government environments, where developing solutions with adaptability and upgradability in mind is
+paramount. I am actively seeking internship opportunities to apply and expand my skills professionally
+
+Feel free to reach out! I'm always open to interesting conversations and collaboration.
+- **LinkedIn:** [Kevin Lai](https://www.linkedin.com/in/kevinlaisoftware/)
+- **Email:** [kevinlaisoftware@gmail.com](kevinlaisoftware@gmail.com)
 
 ## 🔧 Skills & Technologies
 
-- **Languages:** Python, JavaScript/TypeScript, Java, C, HTML + CSS, MATLAB, MIPS
-- **Web Development Libaries and Frameworks:** React.js, Express.js, Mongoose, Clerk, Taiwind CSS, Framer Motion, Material UI, JWT.IO
-- **Additional Technologies:** Supabase, MySQL, MongoDB, PostgreSQL, Node.js, Postman, RESTful API, IBM Security Verify, Git, Linux, GitHub, Valgrind, NumPy, PyQt, PyTest, Criterion, Tkinter
+- **Languages:** Python, JavaScript, TypeScript, C, Java, MIPS, MATLAB, HTML + CSS
+- **Databases:** MySQL, MongoDB, PostgreSQL, AWS RDS
+- **Libaries and Frameworks:** Next.js, React.js, Express.js, Mongoose, Clerk, NumPy, PyQt, PyTest, Criterion, Tkinter, Material UI
+- **Additional Technologies:** Node.js, Prisma, Supabase, Git, Postman, RESTful API Tkinter, Docker, GitHub Actions
 
 ## 🌱 I’m learning:
 
-Currently learning more about Web Development, I am exploring System Design to learn about how teams work together to create fast and reliable backends for websites.
+Currently learning more about Web Development, I am exploring DevOps principles to learn about how teams work together to create fast and reliable backends for websites.
 
 ## 🚀 Projects
 
@@ -18,22 +25,11 @@ Here are some projects I'm proud of:
 
 1. **[STARS: Stony Brook Assembler and Runtime Simulator](https://github.com/sbustars/STARS):** Worked alongside Professor McDonnell and Professor Mitra at Stony Brook University to develop STARS, a Python program that parses and emulates MIPS assembly execution.
 2. **[Malloc!](https://github.com/lai-kevin/Memory-Allocator):** A x86-64 dynamic memory allocator written in C. Completed as a university project. Utilizes segregated free lists and "quick lists" to improve time complexity. Immediately coalesces large blocks with adjacent free blocks on free, splits without splinters, and omits block footer to improve space efficiency.
-3. **[Stock Dash](https://github.com/lai-kevin/AI_Stock_Dashboard):** Displays stock price data fetched from alphavantage.co API on charts and data tables from Material UI. Utilizes ChatGPT API to generate text summaries of corporations.
-
-Explore more on my [GitHub Repositories](https://github.com/lai-kevin).
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [Kevin Lai](https://www.linkedin.com/in/kevinlaisoftware/)
-- **Portfolio:** [Coming Soon](Link to Portfolio)
-
-Feel free to reach out! I'm always open to interesting conversations and collaboration.
-
-## 📊 GitHub Stats
-
-**[GitHub Stats](https://github-stats.com/lai-kevin)**
-
-<!-- You can use tools like https://github.com/anuraghazra/github-readme-stats to generate your GitHub Stats Image URL -->
+3. **[RaceTree](https://github.com/lai-kevin/RaceTree-Production):** A full-stack web application built for sim-racing professionals and hobbyists. RaceTree focuses on providing 3 key features:
+verified profile pages, a crowdsourced stewarding platform for user uploaded clips with a publicly accessible API, and an Esport
+Driver Registry API. Providing sim-racing communities a solution for looking up driving records of registered RaceTree and
+Steam users.
+4. **[Forum Microservice](https://github.com/lai-kevin/Forum-Microservice):** A containerized forum microservice that powers Reddit-style discussions with voting, user profiles, scalability, and an API. Users can register, login, and perform various actions such as creating posts, commenting, and voting on posts.
 
 ## 🎉 Fun Facts
 
