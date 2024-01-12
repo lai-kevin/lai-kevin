@@ -2,10 +2,6 @@ I’m a versatile software engineer with internship experience in end-to-end dev
 experience spans both startup and government environments, where developing solutions with adaptability and upgradability in mind is
 paramount. I am actively seeking internship opportunities to apply and expand my skills professionally
 
-Feel free to reach out! I'm always open to interesting conversations and collaboration.
-- **LinkedIn:** [Kevin Lai](https://www.linkedin.com/in/kevinlaisoftware/)
-- **Email:** [kevinlaisoftware@gmail.com](kevinlaisoftware@gmail.com)
-
 ## 🔧 Skills & Technologies
 
 - **Languages:** Python, JavaScript, TypeScript, C, Java, MIPS, MATLAB, HTML + CSS
