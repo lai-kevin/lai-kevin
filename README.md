@@ -1,6 +1,6 @@
 I’m a versatile software engineer with internship experience in end-to-end development of full-stack applications and internal software. My
 experience spans both startup and government environments, where developing solutions with adaptability and upgradability in mind is
-paramount. I am actively seeking internship opportunities to apply and expand my skills professionally
+paramount.
 
 ## 🔧 Skills & Technologies
 
