@@ -1,20 +1,16 @@
-I’m a versatile software engineer with internship experience in end-to-end development of full-stack applications and internal software. My
-experience spans both startup and government environments, where developing solutions with adaptability and upgradability in mind is
-paramount.
-
 ## 🔧 Skills & Technologies
 
 - **Languages:** Python, JavaScript, TypeScript, C, Java, MIPS, MATLAB, HTML + CSS
 - **Databases:** MySQL, MongoDB, PostgreSQL, AWS RDS
-- **Libaries and Frameworks:** Next.js, React.js, Express.js, Mongoose, Clerk, NumPy, PyQt, PyTest, Criterion, Tkinter, Material UI
+- **Libaries and Frameworks:** Next.js, React.js, Express.js, NumPy, PyQt, PyTest
 - **Additional Technologies:** Node.js, Prisma, Supabase, Git, Postman, RESTful API Tkinter, Docker, GitHub Actions
 
 ## 🌱 I’m learning:
 
-Currently I am exploring DevOps principles to learn about how continuously deploy reliable backends for websites.
+Currently I am exploring DevOps principles and cloud computing to learn about how continuously deploy reliable backends.
 
 ## 🚀 Projects
-1. **[Milton: Scan Art with ML]([https://github.com/sbustars/STARS](https://github.com/orgs/Milton-Art-Scan/repositories)):** An app that makes art galleries interactive, where you can get context/education information from artists by scanning.
+1. **[Milton: Scan Art with ML]([https://github.com/sbustars/STARS](https://github.com/orgs/Milton-Art-Scan/repositories):** An app that makes art galleries interactive, where you can get context/education information from artists by scanning.
 
 2. **[STARS: Stony Brook Assembler and Runtime Simulator](https://github.com/sbustars/STARS):** Worked alongside Professor McDonnell and Professor Mitra at Stony Brook University to develop STARS, a Python program that parses and emulates MIPS assembly execution.
 3. **[Malloc!](https://github.com/lai-kevin/Memory-Allocator):** A x86-64 dynamic memory allocator written in C. Completed as a university project. Utilizes segregated free lists and "quick lists" to improve time complexity. Immediately coalesces large blocks with adjacent free blocks on free, splits without splinters, and omits block footer to improve space efficiency.
