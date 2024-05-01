@@ -7,7 +7,7 @@
 
 ## 🌱 I’m learning:
 
-Currently I am exploring DevOps principles and cloud computing to learn about how continuously deploy reliable backends.
+Currently I am exploring DevOps principles and cloud computing to learn about how to deploy reliable backends.
 
 ## 🚀 Projects
 1. **[Milton: Scan Art with ML](https://github.com/orgs/Milton-Art-Scan/repositories):** An app that makes art galleries interactive, where you can get context/education information from artists by scanning.
