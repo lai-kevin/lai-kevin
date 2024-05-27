@@ -5,9 +5,9 @@
 - **Libaries and Frameworks:** Next.js, React.js, Express.js, NumPy, PyQt, PyTest
 - **Additional Technologies:** Node.js, Prisma, Supabase, Git, Postman, RESTful API Tkinter, Docker, GitHub Actions
 
-## 🌱 I’m learning:
+## 🌱 Currently working on:
 
-Currently I am exploring DevOps principles and cloud computing to learn about how to deploy reliable backends.
+Working on obtaining domain knowledge in cybersecurity and computer networks. Currently tinkering with cloud computing in an android application focused on biking at Stony Brook University.
 
 ## 🚀 Projects
 1. **[Milton: Scan Art with ML](https://github.com/orgs/Milton-Art-Scan/repositories):** An app that makes art galleries interactive, where you can get context/education information from artists by scanning.
