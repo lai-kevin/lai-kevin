@@ -10,7 +10,7 @@
 Working on obtaining domain knowledge in cybersecurity and computer networks.
 
 ## 🚀 Projects
-1. **[Decentralized File Sharing Network](https://github.com/lai-kevin/Forum-Microservice](https://github.com/lai-kevin/OrcaNet-Tuna):** A decentralized file sharing networks enabling secure P2P file transfer. Simply search a file by its hash to view providers of the file. Providers earn cryptocurrency from transactions with downloaders. This project features nodes that can be used as proxies, allowing users with restricted internet access to reroute their internet traffic to other devices.
+1. **[Decentralized File Sharing Network](https://github.com/lai-kevin/OrcaNet-Tuna):** A decentralized file sharing networks enabling secure P2P file transfer. Simply search a file by its hash to view providers of the file. Providers earn cryptocurrency from transactions with downloaders. This project features nodes that can be used as proxies, allowing users with restricted internet access to reroute their internet traffic to other devices.
 
 2. **[Milton: Scan Art with ML](https://github.com/orgs/Milton-Art-Scan/repositories):** An app that makes art galleries interactive, where you can get context/education information from artists by scanning.
 
